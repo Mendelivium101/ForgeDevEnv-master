@@ -1,0 +1,11 @@
+item.modtut.ingot_aluminium.name=Aluminium Ingot
+tile.modtut.block_aluminium.name=Aluminium Block
+
+item.modtut.ingot_copper.name=Copper Ingot
+item.modtut.ingot_zinc.name=Zinc Ingot
+item.modtut.ingot_tin.name=Tin Ingot
+
+tile.modtut.chalcopyrite_cufes2.name=Chalcopyrite Ore
+tile.modtut.malachite.name=Malachite Ore
+tile.modtut.natural_cassiterite.name=Cassiterite Ore
+
